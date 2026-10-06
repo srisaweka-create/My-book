@@ -1,0 +1,48 @@
+.Header-bg{
+  background-color: #413637;
+}
+
+.Header-textcolor{
+  color: #ffffff;
+}
+
+body {
+    background-image: url("../images/Background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+main ,section- {
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    min-height: 100vh;
+    padding: 30px 0;
+}
+
+.Footer-bg{
+  background: #f5ced4;
+}
+
+h1 { font-size: 4rem;
+    font-weight: bold;
+    background: linear-gradient( to right, #0b63a8, #dd6b9f ); 
+  -webkit-background-clip: text; 
+  background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  color: transparent; 
+  display: inline-block; 
+}
+
+h2{
+  font-family: "IBM Plex Sans Thai Looped", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #0b63a8;
+}
+
+.แจ่มใส{
+  color: #0b63a8;
+}
