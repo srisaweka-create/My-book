@@ -1,9 +1,12 @@
-.Header-bg{
-  background-color: #413637;
-}
 
-.Header-textcolor{
-  color: #ffffff;
+
+
+header {background-color: #413637;
+    color: #ffffff;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+    background-color: #413637;
 }
 
 body {
@@ -14,7 +17,7 @@ body {
     min-height: 100vh;
 }
 
-main ,section- {
+main {
     background-color: white;
     width: 70%;
     margin: 0 auto;
@@ -22,7 +25,7 @@ main ,section- {
     padding: 30px 0;
 }
 
-.Footer-bg{
+Footer {
   background: #f5ced4;
 }
 
@@ -36,13 +39,17 @@ h1 { font-size: 4rem;
   display: inline-block; 
 }
 
-h2{
+h2 {
   font-family: "IBM Plex Sans Thai Looped", sans-serif;
   font-weight: 600;
   font-style: normal;
   color: #0b63a8;
 }
 
-.แจ่มใส{
+.ย่อหน้า {
+  text-indent: 20px;
+}
+
+.แจ่มใส {
   color: #0b63a8;
 }
