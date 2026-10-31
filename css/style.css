@@ -84,7 +84,7 @@ h1 { font-size: 4rem;
   background-clip: text; 
   -webkit-text-fill-color: transparent; 
   color: transparent; 
-  display: inline-block; 
+  display: inline-block;
 }
 
 h2 {
