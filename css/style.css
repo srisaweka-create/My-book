@@ -9,15 +9,15 @@ header {background-color: #413637;
     z-index: 1020;
 }
 
-body {
-    cursor: url("../images/hamster-cursor.webp") 16 16, auto;
-}
-
- /* background-image: url("../images/Background.png");
+body { background-image: url("../images/Background.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 100vh; */
+    min-height: 100vh;
+    cursor: url("../images/hamster-cursor.webp") 16 16, auto;
+}
+
+
 
 main {
     background-color: white;
